@@ -1,0 +1,15 @@
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.csproj.AssemblyReference.cache
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.AssemblyInfoInputs.cache
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.AssemblyInfo.cs
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.csproj.CoreCompileInputs.cache
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\bin\Debug\net6.0\Exampl005_if_else.exe
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\bin\Debug\net6.0\Exampl005_if_else.deps.json
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\bin\Debug\net6.0\Exampl005_if_else.runtimeconfig.json
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\bin\Debug\net6.0\Exampl005_if_else.dll
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\bin\Debug\net6.0\Exampl005_if_else.pdb
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.dll
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\refint\Exampl005_if_else.dll
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.pdb
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\Exampl005_if_else.genruntimeconfig.cache
+C:\Катя\Учеба тестировщик\Example\Exampl005_if_else\obj\Debug\net6.0\ref\Exampl005_if_else.dll
