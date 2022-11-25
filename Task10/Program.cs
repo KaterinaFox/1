@@ -13,7 +13,7 @@ int SecondDigital(int number)
 {
     int number1 = number / 100;
     int number3 = number % 10;
-    int number2 = (number - number1 *100 - number3) / 10;
+    int number2 = (number - number1 * 100 - number3) / 10;
     return number2;
 }
 Console.WriteLine($"Вторая цифра числа {SecondDigital(num)}");
