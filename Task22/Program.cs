@@ -4,7 +4,7 @@
 // 5 -> 1, 4, 9, 16, 25.
 // 2 -> 1,4
 
-int num = -1
+int num = -1;
 while (num<1)
 { 
 Console.WriteLine("Введите число N");
