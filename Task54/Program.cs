@@ -48,10 +48,10 @@ int[,] SortRowsElementsMatrix(int[,] matrix)
         {
             arr[j] =matrix[i,j];
         }
-        int[] array_sort = SortArray(arr);
+        int[] arraySort = SortArray(arr);
         for (int j =0; j < matrix.GetLength(1); j++)
         {
-            matrix[i,j] = array_sort[j];
+            matrix[i,j] = arraySort[j];
         }
     }
     return matrix;

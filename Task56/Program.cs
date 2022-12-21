@@ -49,16 +49,16 @@ int MinSumRowElements (int[,] matrix)
         array[i] = sum;
     }
     int min = array[0];
-    int min_index = 1;
+    int minIndex = 1;
     for (int k = 0; k < array.Length; k++)
     {
         if (array[k]<min)
         {
             min = array[k];
-            min_index = k+1;
+            minIndex = k+1;
         }
     }
-    return min_index;
+    return minIndex;
 }
 int[,] array2d = RandomAMatrix(4, 4, 0, 5);
 PrintMatrix(array2d);

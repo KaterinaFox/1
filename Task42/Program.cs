@@ -21,6 +21,15 @@ numb /= 2;
 }
 return bin;
 }
+void PrintArray(int[] array, string symb1, string symb2)
+{
+    Console.Write(symb1);
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.Write(symb2);
+}
 
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
